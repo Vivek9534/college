@@ -1,0 +1,139 @@
+body{
+    /* background:yellow; */
+    margin:0;
+    padding:0;
+}
+.toparea{
+    background:#c25b56;
+    padding:10px 0px;
+    color:white;
+    text-align:center;
+}
+.logoarea{
+    background:#f2c38b; 
+    padding:10px 0;
+    text-align:center;
+}
+.logoarea img{
+    width:100px;
+
+}
+.logoarea h1{
+    color:#943126;
+    text-shadow:2px 2px 5px black;
+}
+.coursearea{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('bg.jpg');
+    padding:100px 0;
+    text-align:center;
+
+}
+
+.dropdown-toggle{
+    /* padding: 10px; */
+    color: #0D6EFD;
+    border: 1px solid #0D6EFD;
+    border-radius: 5px;
+}
+
+.dropdown-toggle:hover{
+    color: white;
+    background-color: #0D6EFD;
+}
+
+.dropdown-toggle:active{
+    color: #fff;
+}
+.box{
+    width:100%;
+    margin:0px;
+    padding:0px;
+    border:solid 1px black;
+    background:white;
+}
+.box img{
+    width:100%;
+    padding:0;
+    transition:all 4s;
+
+}
+.box:hover img{
+    transform:rotate(360deg);
+}
+.message{
+        text-align: center;
+}
+.message img{
+    width:100px;
+}
+.middle b{
+        margin-left:400px;
+}
+.middle img{
+        width: 100%;
+}
+
+.courses{
+    text-align: center;
+
+}
+.course1{
+    text-align: center;
+    padding: 16px;
+
+}
+.course1 a{
+    color: #754027;
+
+}
+.degree{
+    background-image: linear-gradient(rgba(3,0,0,0.1),rgba(0,0,0,0.1)),url('degree1.jpg');
+    text-align: center;
+    padding:50px 0 150px 0;
+   
+}
+.new{
+    text-align: center;
+}
+.new h3{
+    color:rgb(156, 77, 27)
+}
+
+.footer{
+    background-color:#1b1b1b;
+    height:400px;
+    color:#d37f57;
+    overflow:auto;
+}
+.footer h3{
+    color:white;
+    padding: 0px 12px;
+}
+.footer p{
+    color:#d37f57;
+}
+
+.footer h4{
+    color:#f1cb60;
+    text-align: left;
+}
+
+.footer h5{
+    color: #f2c38b;
+}
+.footer spam{
+    color:white;
+    margin-left:600px;
+    
+}
+
+.footer a{
+    color:#f1cb60;;
+}
+
+.hr-line{
+    margin: 15px 0;
+    width: 100%;
+    height: 1px;
+    background-image: linear-gradient(to right , transparent , #afafaf , transparent);
+}
