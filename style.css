@@ -2,6 +2,7 @@ body{
     /* background:yellow; */
     margin:0;
     padding:0;
+    overflow:auto;
 }
 .toparea{
     background:#c25b56;
